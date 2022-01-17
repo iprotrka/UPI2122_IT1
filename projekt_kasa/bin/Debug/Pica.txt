@@ -1,0 +1,6 @@
+CocaCola;12
+Kava;8
+Voda;10
+Cedevita;12
+Mineralna;10
+Pivo;15
